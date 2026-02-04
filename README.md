@@ -1,0 +1,3 @@
+- Name: Sangamithra
+- GitHub: Sangamithra34 
+- LeetCode: Sangamithra_34
