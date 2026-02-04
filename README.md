@@ -1,3 +1,3 @@
-- Name: Sangamithra
-- GitHub: Sangamithra34 
-- LeetCode: Sangamithra_34
+# Name: Sangamithra
+# GitHub: Sangamithra34 
+# LeetCode: Sangamithra_34
